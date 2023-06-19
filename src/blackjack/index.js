@@ -12,8 +12,6 @@ import { crearDeck, pedirCarta, valorCarta } from './usecases';
   const tipos = ['C', 'D', 'H', 'S'],
       especiales = ['A', 'J', 'Q', 'K'];
 
-  
-
   let puntosJugadores = []
 
   //Referencias HTML
